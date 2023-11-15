@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.notfound {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+.img1234 {
+  height: 500px;
+  width: 500px;
+}
